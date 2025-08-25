@@ -1,1 +1,3 @@
-Research New AI related technologies
+Research New AI related technologiesgitgitgit
+
+add some details about the projects
